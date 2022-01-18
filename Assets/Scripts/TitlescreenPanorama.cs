@@ -5,16 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class TitlescreenPanorama : MonoBehaviour
 {
-    private void Start()
-    {
-        Debug.Log("Started");
-    }
-
-    private void Awake()
-    {
-        Debug.Log("Awaked");
-    }
-
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.F11))
