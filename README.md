@@ -8,10 +8,20 @@ Minecraft is a **computer disaster**, an old game full of technical problems suc
 On top of that, Minecraft has **two practically identical versions**, called "*Java*" and "*Bedrock*" which are updated in parallel because the community is divided in these two versions, which implies **doubling the work** and this is an inefficient **disaster**, for a game as important as Minecraft. **And that's why I'm here.**
 
 ## Frecuently asked questions
-### - How do I report a bug?
-In the game, pause the game by pressing "*ESC*" and in the pause menu press the "*Feedback*" button which will open the browser with a menu where you can describe and report the bug.
+### How do I download the game?
+> Go to the repository home page, at the top left, go to where it says "*Main*", then to "*Tags*" and select the version you want.
+> 
+> Now on the right, go to "*Releases*" and download the game compressed in "*.rar*". Unzip it and open it.
 
-Try to put a descriptive title for the bug, and not just "*Bug*". Also, try to attach images or videos or explain the procedure to reproduce the bug.
+### - How do I report a bug?
+> In the game, pause the game by pressing "*ESC*" and in the pause menu press the "*Feedback*" button which will open the browser with a menu where you can describe and report the bug.
+> 
+> Remember to put the "*Bug*" tag. Try to put a descriptive title for the bug, and not just "*Bug*". Also, try to attach images or videos or explain the procedure to reproduce the bug.
+
+### The project is Open Source, how can I modify it?
+> Go to the repository home page, at the top left, go to where it says "*Main*", then to "*Tags*" and select the version you want.
+> 
+> Now click on the green button that says "*Code*" and download it as "*.zip*" and open it in the engine "*Unity*".
 
 ### ⚡Warning!
 
@@ -28,10 +38,20 @@ Minecraft es un **desastre informático**, un juego antiguo lleno de problemas t
 Encima, Minecraft **tiene dos versiones prácticamente idénticas**, llamadas «*Java*» y «*Bedrock*» las cuales son actualizadas en paralelo porque la comunidad está dividida en estas dos versiones, lo cual implica **doblar el trabajo** y esto es un ineficiente **desastre**, para un juego tan importante como Minecraft. **Y por eso estoy aquí.**
 
 ## Preguntas frecuentes
-### - ¿Cómo reporto un bug?
-En el juego, pausa la partida pulsando «*ESC*» y en el menú de pausa pulsa el botón «*Informar*» el cual te abrirá el navegador con un menú en donde describir y reportar el bug.
+### ¿Cómo me descargo el juego?
+> Ve a la página inicial del repositorio, en la parte superior izquierda, ve a donde dice «*Main*», luego a «*Tags*» y selecciona la versión que desees.
+> 
+> Ahora a la derecha, ve a «*Releases*» y descarga el juego comprimido en «*.rar*». Descomprímelo y ábrelo.
 
-Trata de poner un título descriptivo del bug, y no simplemente «*Bug*». Además, trata de adjuntar imágenes o vídeos o explicar el procedimiento para reproducir el bug.
+### - ¿Cómo reporto un bug?
+> En el juego, pausa la partida pulsando «*ESC*» y en el menú de pausa pulsa el botón «*Informar*» el cual te abrirá el navegador con un menú en donde describir y reportar el bug.
+> 
+> Recuerda poner la etiqueta de «*Bug*». Trata de poner un título descriptivo del bug, y no simplemente «*Bug*». Además, trata de adjuntar imágenes o vídeos o explicar el procedimiento para reproducir el bug.
+
+### El proyecto es Open Source. ¿Cómo lo puedo modificar?
+> Ve a la página inicial del repositorio, en la parte superior izquierda, ve a donde dice «*Main*», luego a «*Tags*» y selecciona la versión que desees.
+> 
+> Ahora pulsa en el botón verde que dice «*Code*» y descárgatelo como «*.zip*» y ábrelo en el motor gráfico «*Unity*»
 
 ### ⚡¡Aviso!
 
