@@ -9,9 +9,15 @@ On top of that, Minecraft has **two practically identical versions**, called "*J
 
 ## Frecuently asked questions
 ### - How do I report a bug?
-In the game, pause the game by pressing "*ESC*" and in the pause menu press the "*Feedback*" button which will open the browser with a menu where you can describe and report the bug.
+> In the game, pause the game by pressing "*ESC*" and in the pause menu press the "*Feedback*" button which will open the browser with a menu where you can describe and report the bug.
+> 
+> Remember to put the "*Bug*" tag. Try to put a descriptive title for the bug, and not just "*Bug*". Also, try to attach images or videos or explain the procedure to reproduce the bug.
 
-Try to put a descriptive title for the bug, and not just "*Bug*". Also, try to attach images or videos or explain the procedure to reproduce the bug.
+### The project is Open Source, how can I modify it?
+
+> Go to the repository home page, at the top left, go to where it says "*Main*", then to "*Tags*" and select the version you want.
+> 
+> Now on the right, go to "*Releases*" and download the game compressed in "*.rar*". Unzip it and open it.
 
 ### ⚡Warning!
 
@@ -29,9 +35,15 @@ Encima, Minecraft **tiene dos versiones prácticamente idénticas**, llamadas «
 
 ## Preguntas frecuentes
 ### - ¿Cómo reporto un bug?
-En el juego, pausa la partida pulsando «*ESC*» y en el menú de pausa pulsa el botón «*Informar*» el cual te abrirá el navegador con un menú en donde describir y reportar el bug.
+> En el juego, pausa la partida pulsando «*ESC*» y en el menú de pausa pulsa el botón «*Informar*» el cual te abrirá el navegador con un menú en donde describir y reportar el bug.
+> 
+> Recuerda poner la etiqueta de «*Bug*». Trata de poner un título descriptivo del bug, y no simplemente «*Bug*». Además, trata de adjuntar imágenes o vídeos o explicar el procedimiento para reproducir el bug.
 
-Trata de poner un título descriptivo del bug, y no simplemente «*Bug*». Además, trata de adjuntar imágenes o vídeos o explicar el procedimiento para reproducir el bug.
+### El proyecto es Open Source. ¿Cómo lo puedo modificar?
+
+> Ve a la página inicial del repositorio, en la parte superior izquierda, ve a donde dice «*Main*», luego a «*Tags*» y selecciona la versión que desees.
+> 
+> Ahora a la derecha, ve a «*Releases*» y descarga el juego comprimido en «*.rar*». Descomprímelo y ábrelo.
 
 ### ⚡¡Aviso!
 
