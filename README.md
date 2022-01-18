@@ -17,6 +17,12 @@ On top of that, Minecraft has **two practically identical versions**, called "*J
 
 > Go to the repository home page, at the top left, go to where it says "*Main*", then to "*Tags*" and select the version you want.
 > 
+> Now click on the green button that says "*Code*" and download it as "*.zip*" and open it in the engine "*Unity*".
+
+### How do I download the game?
+
+> Go to the repository home page, at the top left, go to where it says "*Main*", then to "*Tags*" and select the version you want.
+> 
 > Now on the right, go to "*Releases*" and download the game compressed in "*.rar*". Unzip it and open it.
 
 ### ⚡Warning!
@@ -40,6 +46,12 @@ Encima, Minecraft **tiene dos versiones prácticamente idénticas**, llamadas «
 > Recuerda poner la etiqueta de «*Bug*». Trata de poner un título descriptivo del bug, y no simplemente «*Bug*». Además, trata de adjuntar imágenes o vídeos o explicar el procedimiento para reproducir el bug.
 
 ### El proyecto es Open Source. ¿Cómo lo puedo modificar?
+
+> Ve a la página inicial del repositorio, en la parte superior izquierda, ve a donde dice «*Main*», luego a «*Tags*» y selecciona la versión que desees.
+> 
+> Ahora pulsa en el botón verde que dice «*Code*» y descárgatelo como «*.zip*» y ábrelo en el motor gráfico «*Unity*»
+
+### ¿Cómo me descargo el juego?
 
 > Ve a la página inicial del repositorio, en la parte superior izquierda, ve a donde dice «*Main*», luego a «*Tags*» y selecciona la versión que desees.
 > 
