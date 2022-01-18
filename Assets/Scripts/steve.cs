@@ -38,6 +38,9 @@ public class steve : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         mainCam = transform.GetChild(6);
         Application.targetFrameRate = FPSLimit;
+
+        PauseCanvas.SetActive(false);
+        hudCanvas.SetActive(true);
     }
 
     private void Awake()
@@ -129,7 +132,7 @@ public class steve : MonoBehaviour
 
         #region breaking blocks
         RaycastHit hit;
-        if (Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit, 5, ~PlayerLayer))
+        if (Physics.Raycast(Camera.main.transform.position, Camera.main.transform.forward, out hit, 5, ~PlayerLayer) && !PauseCanvas.activeSelf)
         {
             if(hit.transform.gameObject.layer == LayerMask.NameToLayer("Block") && Input.GetMouseButton(0) && Time.time > Creative_BreakingBlocksCooldown)
             {

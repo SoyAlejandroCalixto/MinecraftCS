@@ -19,6 +19,13 @@ public class PauseMenuButtons : MonoBehaviour
     public void QuitToTitle_Click()
     {
         Time.timeScale = 1;
+        PauseCanvas.SetActive(false);
+        hudCanvas.SetActive(true);
         SceneManager.LoadScene("Scenes/Titlescreen");
+    }
+
+    public void Feedback_Click()
+    {
+        Application.OpenURL("https://github.com/iAmKappy/MinecraftCS/issues/new");
     }
 }
