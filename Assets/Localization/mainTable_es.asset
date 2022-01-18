@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: mainTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: ada03683bec431543b16c236911e6c9f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 75204190208
+    m_Localized: Un jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113686929408
+    m_Localized: Multijugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146939371520
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149657280512
+    m_Localized: Cerrar juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182781628178432
+    m_Localized: Volver al juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184344476180480
+    m_Localized: Logros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 185159140040704
+    m_Localized: "Estad\xEDsticas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 189908178493440
+    m_Localized: "Salir al t\xEDtulo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 190926886854656
+    m_Localized: Informar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
