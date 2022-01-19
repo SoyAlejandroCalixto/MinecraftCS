@@ -1,8 +1,6 @@
 # Minecraft: C# Edition
 ![](https://i.imgur.com/7GIpbHt.png)
 
-#
-
 ![image](https://i.imgur.com/6UI5j0E.png)
 
 Minecraft is a **computer disaster**, an old game full of technical problems such as having more than **42,000 bugs** currently reported or the very **performance**, despite not being a game that exactly stands out for having a demanding graphics section.
