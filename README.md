@@ -23,8 +23,6 @@ On top of that, Minecraft has **two practically identical versions**, called "*J
 > 
 > Now click on the green button that says "*Code*" and download it as "*.zip*" and open it in the engine "*Unity*".
 
-#
-
 ### ⚡Warning!
 
 This software is neither related to "*Mojang Studios*" nor does it make a profit from the use of this software.
@@ -54,8 +52,6 @@ Encima, Minecraft **tiene dos versiones prácticamente idénticas**, llamadas «
 > Ve a la página inicial del repositorio, en la parte superior izquierda, ve a donde dice «*Main*», luego a «*Tags*» y selecciona la versión que desees.
 > 
 > Ahora pulsa en el botón verde que dice «*Code*» y descárgatelo como «*.zip*» y ábrelo en el motor gráfico «*Unity*»
-
-#
 
 ### ⚡¡Aviso!
 
