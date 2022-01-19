@@ -1,4 +1,4 @@
-# Minecraft: C# Edition - Like Minecraft, but modern.
+# Minecraft: C# Edition
 ![](https://i.imgur.com/7GIpbHt.png)
 
 ![image](https://i.imgur.com/6UI5j0E.png)
