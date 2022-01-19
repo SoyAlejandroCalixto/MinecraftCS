@@ -3103,7 +3103,7 @@ MonoBehaviour:
   BreakingParticle: {fileID: 1469204419}
   PauseCanvas: {fileID: 794433214}
   hudCanvas: {fileID: 859823514}
-  Velocity: 60
+  Velocity: 30
   Sensibility: 1
   FOV: 110
   FPSLimit: 60
@@ -3117,7 +3117,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478601624}
-  m_Material: {fileID: 13400000, guid: 6e9fe27fad997cb499148d9647fbafe8, type: 2}
+  m_Material: {fileID: 13400000, guid: 4d6db964a6a906640b7a7bbefc5b4624, type: 2}
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
@@ -3150,11 +3150,11 @@ Rigidbody:
   m_GameObject: {fileID: 478601624}
   serializedVersion: 2
   m_Mass: 1
-  m_Drag: 11
+  m_Drag: 0
   m_AngularDrag: 0
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 112
   m_CollisionDetection: 1
 --- !u!1 &479551296

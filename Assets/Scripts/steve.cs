@@ -17,7 +17,6 @@ public class steve : MonoBehaviour
     Transform mainCam;
     Vector3 Movement;
     bool isOnTheGround;
-    float fallingForceCooldown;
     float jumpCooldown;
     float Creative_BreakingBlocksCooldown;
     public float Velocity;
@@ -99,15 +98,9 @@ public class steve : MonoBehaviour
         #region Jump
         if (Input.GetKey("space") && isOnTheGround && Time.time > jumpCooldown && !PauseCanvas.activeSelf)
         {
-            GetComponent<Rigidbody>().AddForce(0,20,0, ForceMode.Impulse);
+            GetComponent<Rigidbody>().AddForce(0,8.5f,0, ForceMode.Impulse);
             isOnTheGround = false;
             jumpCooldown = Time.time + 0.1f;
-            fallingForceCooldown = Time.time + 0.33f;
-        }
-
-        if (!isOnTheGround && Time.time > fallingForceCooldown)
-        {
-            GetComponent<Rigidbody>().AddForce(0,-75,0);
         }
         #endregion
     
@@ -192,7 +185,12 @@ public class steve : MonoBehaviour
     {
         isOnTheGround = false;
     }
-    private void OnTriggerStay(Collider other) {
-        
+
+    private void FixedUpdate()
+    {
+        var vel = GetComponent<Rigidbody>().velocity;
+        vel.x *= 1.0f - 0.15f;
+        vel.z *= 1.0f - 0.15f;
+        GetComponent<Rigidbody>().velocity = vel;
     }
 }
